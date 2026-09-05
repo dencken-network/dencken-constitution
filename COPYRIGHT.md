@@ -10,7 +10,7 @@ All rights reserved.
 The Dencken Network constitutional framework — including the founding sentence,
 seven non-changeable rules, philosophical manifest, and the underlying
 philosophy of fractal constitutional AI governance — is the original
-intellectual property of CP Müller, operating as Oddsized / Genboy.
+intellectual property of CP Müller, operating as Oddsized / Creativepropulsions / Webbouwer.
 
 **First conceived:** 2025
 **First documented:** 2025 (private records)
@@ -19,9 +19,9 @@ intellectual property of CP Müller, operating as Oddsized / Genboy.
 **GitHub organisation established:** August 2026 — github.com/dencken-network
 
 Prior conception is additionally established via:
-- genboy.net (CP Müller / Oddsized personal domain)
-- github.com/genboy (personal GitHub, prior work)
-- Festival concept repository: github.com/genboy/Festival
+- dencken.net 
+- github.com/creativepropulsions (personal GitHub, prior work)
+- privatly saved sessions and deliberations
 
 ---
 
